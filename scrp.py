@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
-from datetime import datetime  # <--- NEW IMPORT
+from datetime import datetime
 
 # Setup options
 chrome_options = Options()
